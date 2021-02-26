@@ -1,0 +1,33 @@
+{
+	"stringList" : 
+	{
+		"attributes_vanilla": [
+			"Health",
+			"Magicka",
+			"Stamina"
+		],
+		"skills_vanilla": [
+			"OneHanded",
+			"TwoHanded",
+			"Marksman",
+			"Block",
+			"Smithing",
+			"HeavyArmor",
+			"LightArmor",
+			"Pickpocket",
+			"Lockpicking",
+			"Sneak",
+			"Alchemy",
+			"Speechcraft",
+			"Alteration",
+			"Conjuration",
+			"Destruction",
+			"Illusion",
+			"Restoration",
+			"Enchanting"
+		],
+		"perks_vanilla": [
+			
+		]
+	}
+}
